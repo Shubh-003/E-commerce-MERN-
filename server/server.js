@@ -50,3 +50,4 @@ connectDb().then(() => {
 // --------------------- TERMINAL 2 ------------------------------------
 // > CD MERN > node server.js
 // DB connected
+// hello git
