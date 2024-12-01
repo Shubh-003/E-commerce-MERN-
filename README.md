@@ -5,5 +5,5 @@ It is interactive and user-friendly shopping experience.
 • support Google map API.
 • Secure with JWT authentication.
 • Saves Encrypted user password in DB using bcryptjs.
-• Product management with search, sort, add, and delete functionalities
-• Dedicated admin panel for CRUD operations on products
+• Product management with search, sort, add, and delete functionalities.
+• Dedicated admin panel for CRUD operations on products.
